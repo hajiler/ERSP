@@ -1,0 +1,78 @@
+#150 Tweet Sample
+C:\Users\erodri90\Downloads\Philipine_tweet_150_annotations.csv
+People = 0
+Responders = 0
+Other = 0
+Urgent : Minutes = 0
+Urgent : Hours = 50
+Not Urgent or Null = 100
+
+
+#Original 662 Tweet Sample
+C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\philippines_disaster_annotation.csv
+People = 111
+Responders = 323
+Other = 152
+Urgent : Minutes = 13
+Urgent : Hours = 234
+Not Urgent or Null = 415
+
+#Mapple Sample
+C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\Mapped Tweets.csv
+
+Specific Rescue :
+        appears  52 times; 44.0 of which are urgent
+Food :
+        appears  14 times; 10.0 of which are urgent
+Generator :
+        appears  7 times; 7.0 of which are urgent
+General Rescue :
+        appears  4 times; 2.0 of which are urgent
+Aid :
+        appears  16 times; 1.0 of which are urgent
+Water :
+        appears  1 times; 1.0 of which are urgent
+Aid :
+        appears  2 times; 1.0 of which are urgent
+Food :
+        appears  1 times; 1.0 of which are urgent
+Disaster development :
+        appears  4 times; 0.0 of which are urgent
+Infrustructure development :
+        appears  1 times; 0.0 of which are urgent
+Logistical  :
+        appears  3 times; 0.0 of which are urgent
+Disaster update :
+        appears  1 times; 0.0 of which are urgent
+Logistical :
+        appears  2 times; 0.0 of which are urgent
+Animals :
+        appears  2 times; 0.0 of which are urgent
+Informational :
+        appears  13 times; 0.0 of which are urgent
+Animals. Logistical :
+        appears  1 times; 0.0 of which are urgent
+Foreign Language :
+        appears  5 times; 0.0 of which are urgent
+Informational :
+        appears  1 times; 0.0 of which are urgent
+Disaster Update :
+        appears  2 times; 0.0 of which are urgent
+Inquiry :
+        appears  1 times; 0.0 of which are urgent
+Logistics :
+        appears  1 times; 0.0 of which are urgent
+Good Wishes :
+        appears  2 times; 0.0 of which are urgent
+Disaster Update :
+        appears  11 times; 0.0 of which are urgent
+Volunteer :
+        appears  2 times; 0.0 of which are urgent
+Photo :
+        appears  1 times; 0.0 of which are urgent
+Animal :
+        appears  1 times; 0.0 of which are urgent
+Logistical :
+        appears  4 times; 0.0 of which are urgent
+Disater Development :
+        appears  1 times; 0.0 of which are urgent
