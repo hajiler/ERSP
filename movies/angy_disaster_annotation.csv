@@ -1,4 +1,4 @@
-tweet_id,tweet,"relevant_to? (R,P,O,N)","urgency_level (0,1,2)",type_of_information
+tweet_id,tweet,"relevant_to? (R,P,O,N)","urgency_level","info_type"
 2.31E+17,philippine floods worsen as death toll hits 14 in wake of gener #philippines #national,O,0,disaster update
 2.31E+17,@user philippine floods worsen as death toll hits 14 in wake of gener,O,0,disaster update
 2.31E+17,philippine flood fatalities hit 23,O,0,disaster update

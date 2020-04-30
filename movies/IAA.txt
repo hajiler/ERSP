@@ -1,0 +1,238 @@
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\angy_disaster_annotation.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\arpita_disaster_annotation.csv
+Agreed: 
+    urgent : 236
+    not urgent/null : 130
+    total : 366
+File 1: 
+    urgent : 248
+    not urgent/null : 414
+File 2: 
+    urgent : 520
+    not urgent/null : 142
+IAA : -0.4210953817591086
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\angy_disaster_annotation.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\elijah_disaster_annotation.csv
+Agreed: 
+    urgent : 217
+    not urgent/null : 384
+    total : 601
+File 1: 
+    urgent : 248
+    not urgent/null : 414
+File 2: 
+    urgent : 247
+    not urgent/null : 415
+IAA : 0.803581851433908
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\elijah_disaster_annotation.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\arpita_disaster_annotation.csv
+Agreed: 
+    urgent : 234
+    not urgent/null : 129
+    total : 363
+File 1: 
+    urgent : 247
+    not urgent/null : 415
+File 2: 
+    urgent : 520
+    not urgent/null : 142
+IAA : -0.4387224794481719
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\Philipine_tweet_150_annotations.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\philipines_150_Tweet_Data-Arpita.csv
+Agreed: 
+    urgent : 47
+    not urgent/null : 85
+    total : 132
+File 1: 
+    urgent : 53
+    not urgent/null : 97
+File 2: 
+    urgent : 59
+    not urgent/null : 91
+IAA : 0.7290244881573665
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\Philipine_tweet_150_annotations.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\philipines_150_Tweet_Data-Arpita-1.csv
+Agreed: 
+    urgent : 47
+    not urgent/null : 90
+    total : 137
+File 1: 
+    urgent : 53
+    not urgent/null : 97
+File 2: 
+    urgent : 54
+    not urgent/null : 96
+IAA : 0.8093655293772607
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\philipines_150_Tweet_Data-Arpita-1.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\philipines_150_Tweet_Data-Arpita.csv
+Agreed: 
+    urgent : 54
+    not urgent/null : 91
+    total : 145
+File 1: 
+    urgent : 54
+    not urgent/null : 96
+File 2: 
+    urgent : 59
+    not urgent/null : 91
+IAA : 0.9257278669043375
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\angy_disaster_annotation.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\arpita_disaster_annotation.csv
+Agreed: 
+    urgent : 236
+    not urgent/null : 130
+    total : 366
+File 1: 
+    urgent : 248
+    not urgent/null : 414
+File 2: 
+    urgent : 520
+    not urgent/null : 142
+IAA : -0.4210953817591086
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\angy_disaster_annotation.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\elijah_disaster_annotation.csv
+Agreed: 
+    urgent : 217
+    not urgent/null : 384
+    total : 601
+File 1: 
+    urgent : 248
+    not urgent/null : 414
+File 2: 
+    urgent : 247
+    not urgent/null : 415
+IAA : 0.803581851433908
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\elijah_disaster_annotation.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\arpita_disaster_annotation.csv
+Agreed: 
+    urgent : 234
+    not urgent/null : 129
+    total : 363
+File 1: 
+    urgent : 247
+    not urgent/null : 415
+File 2: 
+    urgent : 520
+    not urgent/null : 142
+IAA : -0.4387224794481719
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\Philipine_tweet_150_annotations.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\philipines_150_Tweet_Data-Arpita.csv
+Agreed: 
+    urgent : 47
+    not urgent/null : 85
+    total : 132
+File 1: 
+    urgent : 53
+    not urgent/null : 97
+File 2: 
+    urgent : 59
+    not urgent/null : 91
+IAA : 0.7290244881573665
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\Philipine_tweet_150_annotations.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\philipines_150_Tweet_Data-Arpita-1.csv
+Agreed: 
+    urgent : 47
+    not urgent/null : 90
+    total : 137
+File 1: 
+    urgent : 53
+    not urgent/null : 97
+File 2: 
+    urgent : 54
+    not urgent/null : 96
+IAA : 0.8093655293772607
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\philipines_150_Tweet_Data-Arpita-1.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\philipines_150_Tweet_Data-Arpita.csv
+Agreed: 
+    urgent : 54
+    not urgent/null : 91
+    total : 145
+File 1: 
+    urgent : 54
+    not urgent/null : 96
+File 2: 
+    urgent : 59
+    not urgent/null : 91
+IAA : 0.9257278669043375
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\Mapped Tweets.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\angy_disaster_annotation.csv
+Agreed: 
+    urgent : 52
+    not urgent/null : 88
+    total : 140
+File 1: 
+    urgent : 53
+    not urgent/null : 94
+File 2: 
+    urgent : 58
+    not urgent/null : 89
+IAA : 0.8939065883080729
+
+
+
+Annotation info between:
+    File 1: C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\Mapped Tweets.csv
+    File 2 C:\Users\erodri90\.PyCharmEdu2018.2\config\scratches\movies\elijah_disaster_annotation.csv
+Agreed: 
+    urgent : 46
+    not urgent/null : 86
+    total : 132
+File 1: 
+    urgent : 53
+    not urgent/null : 94
+File 2: 
+    urgent : 54
+    not urgent/null : 93
+IAA : 0.7775199273534457
+
+
+
